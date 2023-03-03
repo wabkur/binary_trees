@@ -1,1 +1,1 @@
-function that checks if a given node is a root
+function that goes through a binary tree using pre-order traversal
