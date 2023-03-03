@@ -1,1 +1,1 @@
-function that finds the uncle of a node
+function that finds the lowest common ancestor of two nodes
