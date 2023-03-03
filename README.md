@@ -1,1 +1,1 @@
-function that finds the lowest common ancestor of two nodes
+function that goes through a binary tree using level-order traversal
