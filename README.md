@@ -1,1 +1,1 @@
-function that creates a binary tree node
+function that counts the leaves in a binary tree
