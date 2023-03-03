@@ -1,1 +1,1 @@
-function that checks if a binary tree is perfect
+function that finds the sibling of a node
