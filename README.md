@@ -1,1 +1,1 @@
-function that creates a binary tree node
+function that inserts a node as the left-child of another node
