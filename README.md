@@ -1,1 +1,1 @@
-function that checks if a binary tree is full
+function that checks if a binary tree is perfect
