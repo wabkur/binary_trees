@@ -1,1 +1,1 @@
-function that measures the balance factor of a binary tree
+function that checks if a binary tree is full
