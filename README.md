@@ -1,1 +1,1 @@
-function that finds the sibling of a node
+function that finds the uncle of a node
