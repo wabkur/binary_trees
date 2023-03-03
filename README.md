@@ -1,1 +1,1 @@
-function that checks if a binary tree is complete
+function that performs a left-rotation on a binary tree
