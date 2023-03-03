@@ -1,1 +1,1 @@
-function that counts the leaves in a binary tree
+function that measures the balance factor of a binary tree
