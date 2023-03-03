@@ -1,1 +1,1 @@
-function that goes through a binary tree using pre-order traversal
+function that goes through a binary tree using in-order traversal
