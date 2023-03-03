@@ -1,1 +1,1 @@
-function that inserts a node as the right-child of another node
+function that deletes an entire binary tree
