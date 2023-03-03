@@ -1,1 +1,1 @@
-function that goes through a binary tree using level-order traversal
+function that checks if a binary tree is complete
