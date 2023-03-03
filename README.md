@@ -1,1 +1,1 @@
-function that measures the depth of a node in a binary tree
+function that creates a binary tree node
