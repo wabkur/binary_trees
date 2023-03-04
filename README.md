@@ -1,1 +1,1 @@
-function that performs a right-rotation on a binary tree
+average time complexities of those operations on a Binary Heap
