@@ -1,1 +1,1 @@
-function that performs a left-rotation on a binary tree
+function that goes through a binary tree using level-order traversal
